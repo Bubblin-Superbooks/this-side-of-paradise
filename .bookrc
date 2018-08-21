@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "This Side of Paradise",
-  "type": "text"
+  "type": "text",
+  "book_id": 635
 }
